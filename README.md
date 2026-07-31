@@ -82,7 +82,7 @@
 
 ---
 
-## 💼 Work Experience
+## 💼 Work Experience 
 
 ### 🏢 HASETRI (JK Tyre) — VDD Department
 **Automation Engineer** | *Indore, India*
